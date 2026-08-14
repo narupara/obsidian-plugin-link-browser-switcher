@@ -1,0 +1,10 @@
+{
+  "id": "link-browser-switcher",
+  "name": "Link Browser Switcher",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "外部リンクをクリックする際、修飾キー（Ctrl / Ctrl+Shift）の組み合わせで起動するブラウザを切り替えられるプラグインです。This is a plugin that allows you to switch the browser used to open external links by using modifier key combinations (Ctrl / Ctrl+Shift) when clicking an external link.",
+  "author": "narupara",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
